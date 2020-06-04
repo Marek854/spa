@@ -1,4 +1,4 @@
-# Příklad použití modulu spaserver
+[![Run on Repl.it](https://repl.it/badge/github/lsvejdaduhovka/spa)](https://repl.it/github/lsvejdaduhovka/spa)# Příklad použití modulu spaserver
 
 Toto je příklad použití modulu https://github.com/liborsvejda/spaserver, který je určen 
 pro snadné vytvoření Node.js webového serveru, zpracovávajícího aplikace typu 
